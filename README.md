@@ -1,2 +1,2 @@
-# Garden_Plannner
-Garden_Plannner
+# Garden_Planner
+Garden_Planner
